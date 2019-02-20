@@ -1,0 +1,5 @@
+# Various file types to ignore when exporting.
+.DS_Store
+Thumbs.db
+.gitconfig
+*.zip
